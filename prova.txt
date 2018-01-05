@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-prova master
-=======
-prova newbranch modifica
->>>>>>> newbranch
+conflitto risolto in questa nuova frase
